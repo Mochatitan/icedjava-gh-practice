@@ -1,4 +1,4 @@
 public class Constants {
-    public static String name = "johhny appleseed";
-    public static int age = 17;
+    public static String name = "ben appleseed";
+    public static int age = 18;
 }
